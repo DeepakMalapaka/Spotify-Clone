@@ -18,5 +18,3 @@ A responsive and interactive Spotify web UI clone built using **HTML**, **CSS**,
 - HTML5
 - CSS3 (Flexbox, Custom Scrollbars)
 - JavaScript
-
-![Spotify Clone Preview](./spotify.png)
